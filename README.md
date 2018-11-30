@@ -1,4 +1,4 @@
-# Word Counter, 11_16_18
+# Word Counter, 11_30_18
 
 #### This website is an application that will count iterations of words in a sentence.
 
@@ -6,6 +6,7 @@
 
 ## Description
 This is a program that will gather an initial word from the user, and a sentence to follow along. The sentence must contain the inital word more than once. The program will then count how many times that word appears in the sentence in full words only. (Ex. If "cat" is entered and the sentence entered is, "There has been a catastrophe." the first letters of catastrophe will not be counted.) 
+This program also has tests that allow the user to make sure all route paths work correctly and all methods work correctly.
 
 ## Specs
 #### Behavior: The program will ask the user to enter an initial word.
